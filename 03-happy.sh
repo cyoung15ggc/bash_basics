@@ -11,7 +11,6 @@ else
 fi
 
 
-
 echo "Today is a good day"
 echo "I went to school"
 echo "code is cool"
@@ -26,6 +25,8 @@ echo "Your favorite color is $color"
 num=5
 echo $((num + 2))
 
+
+echo "This Edit is Different !? "
 
 
 
