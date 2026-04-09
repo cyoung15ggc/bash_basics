@@ -9,6 +9,10 @@ else
    echo "Still Smile c:"
 fi
 
+
+echo "This Edit is Different !? "
+
+
 # here are the other string comparison operators
 # != , -n (not an empty string) , -z (an empty string)
 
